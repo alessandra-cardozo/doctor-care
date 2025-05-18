@@ -39,13 +39,6 @@
 - operador lógico && e de negação !
 - operadores de comparação <= e <=
 - passar argumento para a função
-- Construindo a aplicação em versões.
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-11.jpg" width="400px">
-  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-12.jpg" width="400px">
-  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-13.jpg" width="400px">
-  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-14.jpg" width="400px">
-</p>
 
 #### v4.0-doctor-care
 - inserir uma variável hue em root para editar as cores
@@ -67,12 +60,7 @@
 - alterar as cores mantendo a composição do layout utilizando a variável hue.
 - alterar a cor das quatro letras da logo, alterando fill e stroke em svg
 - error de não subir o arquivo do css: arquivos externos, imagens, ícones devem ser referenciados com "./"
-- Construindo a aplicação em versões.
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-6.jpg" width="400px">
-  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-7.jpg" width="400px">
-  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-8.jpg" width="400px">
-</p>
+
 
 #### v3.0-doctor-care
 - seção de serviços
@@ -93,12 +81,7 @@
 - variáveis 
 - tipos de dados
 - biblioteca de terceiros
-- Construindo a aplicação em versões.
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-9.jpg" width="400px">
-  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-10.jpg" width="400px">
-</p>
-
+- 
 #### v2.0-doctor-care
 - padding-block: na vertical: top e bottom
 - margin-inline: na horizontal: left e right
@@ -113,12 +96,6 @@
 - body.menu-expanded > :not(nav) { display: none; } para sumir com todo o conteúdo do primeiro nível (>) filho do body.menu-expanded.
 - o botão que exibe e esconde o menu através do onclick: adicionar ou remover uma classe com document.body.classList.add("menu-expanded")
 - o scroll do body sobrepõe o conteúdo e não fica no mesmo plano, somando na largura. Assim, não há deslocamento que percebemos no header com a logo: body{ overflow: overlay; }
-- Construindo a aplicação em versões.
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-3.jpg" width="400px">
-  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-4.jpg" width="400px">
-  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-5.jpg" width="400px">
-</p>
 
 #### v1.0-doctor-care
 - estrutura em html: tags semânticas
@@ -127,20 +104,7 @@
 - variáveis no css para as cores
 - unidades fluídas(% e rem) e não fixas(px)
 - display flex
-- Construindo a aplicação em versões.
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-0.jpg" width="400px">
-  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-1.jpg" height="400px">
-</p>
 
-### 😯 Finalizado 
-
----  
-
-- Construindo a aplicação em versões.
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">  
-  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-4.jpg" width="400px">
-</p>
 
 ### 🧭 Adicionado
 
