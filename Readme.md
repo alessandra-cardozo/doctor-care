@@ -1,10 +1,3 @@
-<h3 align="center"> 
-	🚧 Doctor Care 🚀
-</h3> 
-
-<h1 align="center">
-    <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/template-1.jpg" />
-</h1>
 
 ### 💻 Sobre o projeto
 
