@@ -12,17 +12,7 @@
 
 - Desenvolver um site para divulgar a assistência médica com html, css e javascript.
 - Utilizar o template do layout a seguir para construir.
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/template-1.jpg" width="400px"/>
-  <img alt="Desafio Return" title="#DesafioReturn" src="./.github/NLW-return- 2560x1600.png"  width="400px"/>
-</p>
-- Seguir o paradigma mobile first para desenvolver o layout.
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/responsive-2.png" width="400px"/>
-  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/responsive-1.png" width="400px"/>
-  <img alt="Desafio Return" title="#DesafioReturn" src="./.github/responsive-2.gif"  width="400px"/>
-  <img alt="Desafio Return" title="#DesafioReturn" src="./.github/breakpoints.gif"  width="400px"/>
-</p>
+
 
 ### 🚀 Layout
 
